@@ -7,6 +7,10 @@ pip install time
 know what here are all the imports:
 
 import time
+
 import threading
+
 from pynput.mouse import Button, Controller
+
 from pynput.keyboard import Listener, KeyCode
+
